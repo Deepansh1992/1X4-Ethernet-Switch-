@@ -1,0 +1,2 @@
+# 1X4-Ethernet-Switch-
+The main aim of the project was to demonstrate the working of a 1x4 ethernet switch and verify its functionality. The methodology used for the Verification is "Constraint random coverage-driven verification". The switch has an inbuilt memory that stores the address of the output ports. The packets frames that are being feeded to the switch adhers to the IEEE 802.1 standered packet frames. 
